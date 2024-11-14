@@ -8,3 +8,15 @@
 
 
 }
+body{ 
+    color:aqua;
+    background: red;
+    margin: 0px;
+    font-family: "playwrite GB S", cursive;
+    margin-bottom: 100px;
+
+}
+header{
+    border-bottom: solid 3px 
+
+}
