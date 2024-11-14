@@ -9,7 +9,7 @@
 
 }
 body{ 
-    color:aqua;
+    color:rgb(30, 4, 59)9, 0, 255);
     background: red;
     margin: 0px;
     font-family: "playwrite GB S", cursive;
@@ -17,6 +17,22 @@ body{
 
 }
 header{
-    border-bottom: solid 3px 
+    border-bottom: solid 3px red;
+    padding: 20px;
+    font-size: 32px;
+    color: black
+}
+.chamada{
+    background:rgb(49, 30, 70);
+    margin-top: 80px;
+    display:flex;
+    justify-content: center;
 
+
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size: 34px;
 }
