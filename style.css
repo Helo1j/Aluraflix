@@ -23,7 +23,7 @@ header{
     color: black
 }
 .chamada{
-    background:rgb(49, 30, 70);
+    background:rgb(0, 0, 0);
     margin-top: 80px;
     display:flex;
     justify-content: center;
@@ -39,6 +39,20 @@ h1{
 
 .categoria{
     background: orange;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+
 
 
 }
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+    ,.categoria-videos img{
+        opacity: 0.5;
+        height: 20px;
+    }
