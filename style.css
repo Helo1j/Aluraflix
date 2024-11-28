@@ -9,7 +9,7 @@
 
 }
 body{ 
-    color:rgb(151, 65, 250);
+    color:rgb(56, 5, 116);
     background: red;
     margin: 0px;
     font-family: "playwrite GB S", cursive;
@@ -20,10 +20,10 @@ header{
     border-bottom: solid 3px red;
     padding: 20px;
     font-size: 32px;
-    color: rgb(151, 6, 6)
+    color: rgb(163, 64, 230)
 }
 .chamada{
-    background:rgb(0, 0, 0);
+    background:rgb(145, 89, 89);
     margin-top: 80px;
     display:flex;
     justify-content: center;
